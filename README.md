@@ -1,7 +1,7 @@
-#Zepto是一个轻量级的针对现代高级浏览器的JavaScript库， 它与jquery有着类似的api。
+# Zepto是一个轻量级的针对现代高级浏览器的JavaScript库， 它与jquery有着类似的api。
 如果你会用jquery，那么你也会用zepto。
 
-##Zepto.js touch模块
+## Zepto.js touch模块
 
 ### 记录 Zepto.js touch模块
 
